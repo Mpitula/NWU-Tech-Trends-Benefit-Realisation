@@ -1,4 +1,4 @@
-# CMPG 323 Project 5 - NWU Tech Trends Benefit Realisation Report
+# CMPG 323 Project 5 
 
 ## Overview
 This project involves creating a Power BI report to showcase the benefits realised by NWU Tech Trends through the implementation of reporting on time saved by each project and client. The report is designed to provide stakeholders with a clear view of the status of customers and their orders.
