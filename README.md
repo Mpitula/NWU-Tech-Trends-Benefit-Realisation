@@ -16,7 +16,7 @@ Before starting the project, ensure you have:
 
 ## Report Development
 1. **High-Level Metrics**: Page showing high-level metrics such as total projects and savings.
-   <p align="left"><img alt="HLM" length="500" width="200" src="Image/HLM.png" /></p>
+   <p align="left"><img alt="HLM" length="500" width="500" src="Image/HLM.png" /></p>
 3. **Client Monitoring**: Page that monitors savings per client and over time.
 <p align="left"><img alt="CM" width="500" src="Image/CM.png" /></p>
 4. **Project Monitoring**: Page to monitor projects and savings per project.
