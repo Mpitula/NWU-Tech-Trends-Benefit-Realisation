@@ -16,9 +16,18 @@ Before starting the project, ensure you have:
 
 ## Report Development
 1. **High-Level Metrics**: Page showing high-level metrics such as total projects and savings.
-2. **Client Monitoring**: Page to monitor savings per client and over time.
-3. **Project Monitoring**: Page to monitor projects and savings per project.
-4. **Filtering**: filters for project, client, and date range.
+   <p align="left">
+  <img width="2000" length="1000" src="Image" />
+</p>
+3. **Client Monitoring**: Page to monitor savings per client and over time.
+<p align="center">
+  <img alt="Ruby LSP logo" width="200" src="vscode/icon.png" />
+</p>
+4. **Project Monitoring**: Page to monitor projects and savings per project.
+<p align="center">
+  <img alt="Ruby LSP logo" width="200" src="vscode/icon.png" />
+</p>
+5. **Filtering**: filters for project, client, and date range.
 
 ## AI Integration
 1. **Q&A Visual**: Q&A visual to allow users to ask questions about the data.
