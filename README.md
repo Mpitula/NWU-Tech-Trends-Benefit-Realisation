@@ -7,10 +7,10 @@ This project involves creating a Power BI report to showcase the benefits realis
 Before starting the project, ensure you have:
 - Power BI Desktop installed.
 - Access to the Power BI Service.
-- The Excel data source file retrieved from eFundi under Project 5 Resources folder.
+- The [Excel](https://github.com/Mpitula/NWU-Tech-Trends-Benefit-Realisation/blob/main/NWU%20Tech%20Trends%20Data.xlsx) data source.
 
 ## Project Setup
-1. **GitHub Repository**: Clone repository named `[CMPG 323 Project 5](https://github.com/Mpitula/NWU-Tech-Trends-Benefit-Realisation.git)`.
+1. **GitHub Repository**: Clone repository named [NWU Tech Trends Benefit Realisation Report](https://github.com/Mpitula/NWU-Tech-Trends-Benefit-Realisation.git).
 2. **Power BI Desktop**: Install Power BI Desktop if not installed.
 3. **Power BI Report**: Locate the folder in which the tye repository is cloned and open the pbix file.
 
